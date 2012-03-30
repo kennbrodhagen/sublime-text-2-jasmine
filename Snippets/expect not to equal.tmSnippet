@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect not to equal</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>note</string>
 	<key>uuid</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect was called with</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>escw</string>
 	<key>uuid</key>

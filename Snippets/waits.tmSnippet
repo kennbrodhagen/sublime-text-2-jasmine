@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>waits</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>wa</string>
 	<key>uuid</key>

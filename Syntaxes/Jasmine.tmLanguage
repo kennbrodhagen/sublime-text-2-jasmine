@@ -4,12 +4,10 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>spec.js</string>
+		<string>Spec.js</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>^.*\bfunction\s*(\w+\s*)?\([^\)]*\)(\s*\{[^\}]*)?\s*$</string>
-	<key>foldingStopMarker</key>
-	<string>^\s*\}</string>
+	<key>firstLineMatch</key>
+	<string>^describe('.*</string>
 	<key>keyEquivalent</key>
 	<string>^~J</string>
 	<key>name</key>

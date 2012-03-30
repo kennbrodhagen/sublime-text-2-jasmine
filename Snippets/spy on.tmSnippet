@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>spy on</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>s</string>
 	<key>uuid</key>

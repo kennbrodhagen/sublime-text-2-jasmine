@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>it</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>it</string>
 	<key>uuid</key>
